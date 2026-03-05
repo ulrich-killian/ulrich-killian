@@ -1,16 +1,17 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi there, I'm Ulrich  <br><br>###  Professional Headline<br>**Full-Stack Developer | Problem Solver | Open Source Enthusiast**<br>*Specializing in building scalable web applications and efficient backend systems.*<br><br>---<br><br>###  Tech Stack<br><br>| Category | Tools & Technologies |<br>| :--- | :--- |<br>| **Frontend** | React, Next.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS |<br>| **Backend** | Node.js, Express, Python, Django |<br>| **Database** | MongoDB, PostgreSQL, MySQL |<br>| **Tools** | Git, GitHub, Docker, Postman, Vercel |<br><br>---<br><br>### Featured Projects<br><br>#### 1. [Project Name 1]<br>*Brief one-sentence description of the project (e.g., A real-time chat application built with Socket.io).*<br>- **Tech:** React, Node.js, Socket.io<br>- [Repo Link](https://github.com/79Rcf/your-repo-1) | [🌐 Live Demo](https://your-demo-link.com)<br><br>#### 2. [Project Name 2]<br>*Brief description (e.g., Full-stack E-commerce platform with Stripe integration).*<br>- **Tech:** Next.js, Stripe API, MongoDB<br>- [Repo Link](https://github.com/79Rcf/your-repo-2)<br><br>#### 3. [Project Name 3]<br>*Brief description (e.g., Python-based automation tool for web scraping).*<br>- **Tech:** Python, BeautifulSoup, Selenium<br>- [Repo Link](https://github.com/79Rcf/your-repo-3)<br><br>---<br><br>### Connect with Me<br>- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)<br>- **Email:** [yourname@email.com](mailto:yourname@email.com)<br>- **Location:** [City/Country]<br><br>---<br><br>### Status<br>** I’m currently looking for new opportunities!**<br>If you're looking for a dedicated developer to join your team, feel free to reach out.<br><br>---<br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=79Rcf&show_icons=true&theme=radical" alt="GitHub Stats" /><br></p>
 
-<!--
-**ulrich-killian/ulrich-killian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ulrich-killian/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=79Rcf&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=79Rcf&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=79Rcf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=79Rcf&icon=0&color=0)](https://visitcount.itsvg.in)
+
