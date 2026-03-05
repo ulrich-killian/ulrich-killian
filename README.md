@@ -3,7 +3,7 @@
 I'm Ulrich  <br>
 Full-Stack Developer | Problem Solver | Open Source Enthusiast**<br>
 *Specializing in building scalable web applications and efficient backend systems.*<br>
-###  Tech Stack<br><br>
+###  Tech Stack<br>
 | Category | <br>
 Tools & Technologies |<br>|
 **Frontend** : React, Next.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS <br> 
