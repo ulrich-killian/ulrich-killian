@@ -1,14 +1,16 @@
 # 💫 About Me:
 # Hi there, 
-I'm Ulrich  <br><br>
-###  Professional Headline<br>**Full-Stack Developer | Problem Solver | Open Source Enthusiast**<br>*Specializing in building scalable web applications and efficient backend systems.*<br>
+I'm Ulrich  <br>
+Full-Stack Developer | Problem Solver | Open Source Enthusiast**<br>
+*Specializing in building scalable web applications and efficient backend systems.*<br>
 ###  Tech Stack<br><br>
-| Category | 
-Tools & Technologies |<br>| :--- | :--- |<br>|
-**Frontend** | React, Next.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS |<br>| 
-**Backend** | Node.js, Express, Python, Django |<br>| **Database** | MongoDB, PostgreSQL, MySQL |<br>|
-**Tools** | Git, GitHub, Postman, Vercel |<br>
-### Featured Projects<br><br>
+| Category | <br>
+Tools & Technologies |<br>|
+**Frontend** : React, Next.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS <br> 
+**Backend** : Node.js, Express, Python, Django <br> 
+**Database** : MongoDB, PostgreSQL, MySQL <br>
+**Tools** : Git, GitHub, Postman, Vercel <br>
+### Featured Projects<br>
 #### 1. [Project Name 1]<br>
 *Brief one-sentence description of the project (e.g., A real-time chat application built with Socket.io).*<br> 
 **Tech:** React, Node.js, Socket.io<br> 
