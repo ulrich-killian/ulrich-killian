@@ -37,5 +37,9 @@ If you're looking for a dedicated developer to join your team, feel free to reac
 ![](https://nirzak-streak-stats.vercel.app/?user=79Rcf&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=79Rcf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=79Rcf&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=79Rcf&icon=0&color=0)](https://visitcount.itsvg.in) <br>
 
+### Connect with Me
+- LinkedIn: linkedin.com/in/ulrich-killian/
+- Email: yourname@email.com
+- Location: [Yaounde/Cameroon]
