@@ -1,5 +1,33 @@
 # 💫 About Me:
-# Hi there, I'm Ulrich  <br><br>###  Professional Headline<br>**Full-Stack Developer | Problem Solver | Open Source Enthusiast**<br>*Specializing in building scalable web applications and efficient backend systems.*<br><br>---<br><br>###  Tech Stack<br><br>| Category | Tools & Technologies |<br>| :--- | :--- |<br>| **Frontend** | React, Next.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS |<br>| **Backend** | Node.js, Express, Python, Django |<br>| **Database** | MongoDB, PostgreSQL, MySQL |<br>| **Tools** | Git, GitHub, Docker, Postman, Vercel |<br><br>---<br><br>### Featured Projects<br><br>#### 1. [Project Name 1]<br>*Brief one-sentence description of the project (e.g., A real-time chat application built with Socket.io).*<br>- **Tech:** React, Node.js, Socket.io<br>- [Repo Link](https://github.com/79Rcf/your-repo-1) | [🌐 Live Demo](https://your-demo-link.com)<br><br>#### 2. [Project Name 2]<br>*Brief description (e.g., Full-stack E-commerce platform with Stripe integration).*<br>- **Tech:** Next.js, Stripe API, MongoDB<br>- [Repo Link](https://github.com/79Rcf/your-repo-2)<br><br>#### 3. [Project Name 3]<br>*Brief description (e.g., Python-based automation tool for web scraping).*<br>- **Tech:** Python, BeautifulSoup, Selenium<br>- [Repo Link](https://github.com/79Rcf/your-repo-3)<br><br>---<br><br>### Connect with Me<br>- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)<br>- **Email:** [yourname@email.com](mailto:yourname@email.com)<br>- **Location:** [City/Country]<br><br>---<br><br>### Status<br>** I’m currently looking for new opportunities!**<br>If you're looking for a dedicated developer to join your team, feel free to reach out.<br><br>---<br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=79Rcf&show_icons=true&theme=radical" alt="GitHub Stats" /><br></p>
+# Hi there, I'm Ulrich  <br><br>
+###  Professional Headline<br>**Full-Stack Developer | Problem Solver | Open Source Enthusiast**<br>*Specializing in building scalable web applications and efficient backend systems.*<br><br>---<br><br>
+
+###  Tech Stack<br><br>| Category | Tools & Technologies |<br>| :--- | :--- |<br>| **Frontend** | React, Next.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS |<br>| **Backend** | Node.js, Express, Python, Django |<br>| **Database** | MongoDB, PostgreSQL, MySQL |<br>| **Tools** | Git, GitHub, Docker, Postman, Vercel |<br><br>---<br><br>
+### Featured Projects<br><br>
+#### 1. [Project Name 1]<br>
+*Brief one-sentence description of the project (e.g., A real-time chat application built with Socket.io).*<br>- 
+**Tech:** React, Node.js, Socket.io<br>- [Repo Link](https://github.com/79Rcf/your-repo-1) | 
+[🌐 Live Demo](https://your-demo-link.com)<br><br>
+#### 2. [Project Name 2]<br>
+*Brief description (e.g., Full-stack E-commerce platform with Stripe integration).*<br>- 
+**Tech:** Next.js, Stripe API, MongoDB<br>- 
+[Repo Link](https://github.com/79Rcf/your-repo-2)<br><br>
+
+#### 3. [Project Name 3]<br>
+*Brief description (e.g., Python-based automation tool for web scraping).*<br>-
+**Tech:** Python, BeautifulSoup, Selenium<br>- 
+[Repo Link](https://github.com/79Rcf/your-repo-3)<br><br>---<br><br>
+
+### Connect with Me<br>- 
+**LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)<br>- 
+**Email:** [yourname@email.com](mailto:yourname@email.com)<br>- 
+**Location:** [City/Country]<br><br>---<br><br>
+
+### Status<br>** 
+I’m currently looking for new opportunities!**<br>
+If you're looking for a dedicated developer to join your team, feel free to reach out.<br><br>---<br>
+
+<p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=79Rcf&show_icons=true&theme=radical" alt="GitHub Stats" /><br></p>
 
 
 ## 🌐 Socials:
